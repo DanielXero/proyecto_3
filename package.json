@@ -15,7 +15,7 @@
     "api",
     "nodejs"
   ],
-  "author": "Sosa Gustavo",
+  "author": "",
   "license": "MIT",
   "description": "API para e-commerce de hardware y periféricos para PC",
   "devDependencies": {
